@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-primary: 59 130 246;
+  --color-primary-light: 96 165 250;
+  --color-primary-dark: 37 99 235;
+  --color-secondary: 99 102 241;
+  --color-secondary-light: 129 140 248;
+  --color-secondary-dark: 67 56 202;
+  --color-bg-dark: 17 24 39;
+  --color-bg-darker: 3 7 18;
+  --color-bg-lighter: 31 41 55;
+}
